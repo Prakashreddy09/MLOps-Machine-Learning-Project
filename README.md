@@ -4,4 +4,4 @@
 - VsCode: https://code.visualstudio.com/download
 - Git: htts://git-scm.com/
 - Flowchart: https://whimsical.com/
-
+- MLOPs Tool: https://www.evidentlyai.com/
